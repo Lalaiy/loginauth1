@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.form-control {
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+}
+
+.btn {
+    padding: 0.75rem;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.link-secondary {
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.link-secondary:hover {
+    text-decoration: underline;
+}
